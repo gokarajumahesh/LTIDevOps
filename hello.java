@@ -1,2 +1,3 @@
 class hello{
+	void hello
 }
